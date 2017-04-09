@@ -1,0 +1,33 @@
+@charset "UTF"-8;
+
+html, body, ul, li, div {
+	padding: 0;
+	margin: 0;
+}
+
+.candidates{
+	float: center;
+	margin: auto;
+    width: 90%;
+    border: 3px solid green;
+    padding: 10px;
+	margin-top: 10px;
+}
+
+.wrapper{
+	float: center;
+	margin: auto;
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+	margin-top: 10px;
+}
+
+#submate{
+	float: center;
+	margin: auto;
+    width: 90%;
+	text-align: center;
+    padding: 10px;
+	margin-top: 10px;
+}
